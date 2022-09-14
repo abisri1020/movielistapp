@@ -1,0 +1,28 @@
+.App {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 50px 90px;
+    color: white;
+    border: white solid 2px;
+    margin: 20px;
+    padding: 30px;
+}
+
+.profile-image {
+    border-radius: 50%;
+    width: 180px;
+}
+
+body {
+    background-color: #1a1a1a;
+}
+
+button {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+
+img {
+    border-radius: 10px;
+}
